@@ -16,3 +16,5 @@ Current issues:
 - Some dependencies might need updates
 
 Recommended changes: 
+
+I don't know i Jut want the fuckign website to work fgod damn
